@@ -1,6 +1,6 @@
 # SensoryMusicExperience
 
-Introduction # Heading 1
+ # Heading 1 Introduction
 
 Sensory Music Experience is a project designed to create a calming and engaging musical experience specifically for autistic children. The project combines soothing melodies with nature sounds like rain and birds, aiming to provide a relaxing and repetitive auditory environment. Accompanying the music is an animation featuring a color-changing ball that bounces to the melody, along with four additional balls that bounce to the beat of the drums. This multisensory approach seeks to stimulate and comfort children, leveraging the therapeutic benefits of music and visual patterns.
 
