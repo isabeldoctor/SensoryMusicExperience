@@ -1,70 +1,70 @@
 # SensoryMusicExperience
 
- # Heading 1 Introduction
+ # Introduction
 
 Sensory Music Experience is a project designed to create a calming and engaging musical experience specifically for autistic children. The project combines soothing melodies with nature sounds like rain and birds, aiming to provide a relaxing and repetitive auditory environment. Accompanying the music is an animation featuring a color-changing ball that bounces to the melody, along with four additional balls that bounce to the beat of the drums. This multisensory approach seeks to stimulate and comfort children, leveraging the therapeutic benefits of music and visual patterns.
 
-Table of Contents # header H1
-Introduction # header H2
-Technologies # header H2
-Features # header H2
-Setup and Installation # header H2
-Usage # header H2
-Project Status # header H2
-Sources # header H2
-Author # header H2
+# Table of Contents 
+## Introduction 
+## Technologies 
+## Features
+## Setup and Installation
+## Usage 
+## Project Status 
+## Sources 
+## Author 
 
 
-Technologies # header H1
+# Technologies 
 The project is created with:
 
-Programming Languages: # header H2
+## Programming Languages: 
 Python 3.8
 
-Platforms and Tools: # header H2
+## Platforms and Tools: 
 TunePad (for music composition)
 Processing.org (for animations)
 
-Libraries: # header H2
+## Libraries:
 music21 (for music theory and notation)
 
-Concepts Applied: # header H2
+## Concepts Applied: 
 Music Theory (scales, beats, velocity)
 Code Theory (functions, variables, syntax)
 
-Audio Elements: # header H2
+## Audio Elements: 
 Custom-recorded nature sounds (ocean waves, rain, birds)
 
-Features # header H1
+# Features
 
-Calming Music Composition: # header H3
+### Calming Music Composition:
 
 Gentle melodies with slow tempos and soft beats.
 Repetitive patterns to provide predictability and comfort.
 Integration of nature sounds to enhance relaxation.
 
-Interactive Animation:# header H3
+### Interactive Animation:
 
 Main color-changing ball bouncing to the melody.
 Four additional balls bouncing to the drum beats.
 Visual synchronization with the music for a cohesive experience.
 
-User-Centered Design: # header H3
+### User-Centered Design: 
 
 Tailored to the sensory preferences of autistic children.
 Combines auditory and visual stimuli for multisensory engagement.
 
-Launch # header H1
+# Launch 
 
-Prerequisites # header H2
+## Prerequisites 
 
 Python 3.8 or higher installed on your system.
 Processing software installed from Processing.org.
 TunePad Account
 
-Launching Tunepad Project # header H2
+## Launching Tunepad Project 
 
-Accessing the Song Using the TunePad Link # header H3
+### Accessing the Song Using the TunePad Link 
 1. Open the TunePad Link:
 
 Click on the provided TunePad project link: https://tunepad.com/project/90401
@@ -75,7 +75,7 @@ Once the project loads, click the Play button (►) at the top of the editor.
 Ensure your speakers or headphones are connected and the volume is adjusted to a comfortable level.
 The song will play, incorporating the included code and any embedded sounds.
 
-Accessing the Song Using the JSON File # header H3
+### Accessing the Song Using the JSON File 
 Download the JSON File:
 
 Navigate to the .json file in the GitHub repository in the Tunepad folder.
@@ -95,7 +95,7 @@ Play the Song:
 
 With the project and sounds loaded, click the Play button (►) to run the code.
 
-Running the Animation (Processing.org) # header H3
+### Running the Animation (Processing.org) 
 Download the Animation Files:
 
 Download the animation file and any associated files from the animation folder in the repository.
@@ -108,25 +108,25 @@ Play the Animation:
 Click the Run button (►) at the top of the Processing tab.
 The animation window will open, displaying the bouncing balls synchronized with the music.
 
-Project Status # header H1
+# Project Status 
 Current Status: In Development
 
-Planned enhancements: # header H3
+### Planned enhancements: 
 
-Additional Musical Pieces: # header H4
+#### Additional Musical Pieces: 
 
 Composing new songs with different moods, such as "Joyful Jump" and "Nature's Melody."
 
-Improved Synchronization for animation: # header H4
+#### Improved Synchronization for animation: 
 
 I will develop further code to create more balls for each layer of the music and different shapes for the nature sounds.
 
-Sources # header H1
-This project was inspired and informed by: # header H3
+# Sources 
+### This project was inspired and informed by: 
 This project was inspired by my work as an NDIS worker supporting autistic children. Through my interactions, I've observed that repetitive music and nature sounds like rain and birds can have a calming and engaging effect. These experiences motivated me to create the song, aiming to provide a soothing auditory and visual experience that could benefit children with similar sensory preferences.
 
 
-Author # header H1
+# Author 
 Isabel Doctor
 
 Email: isabel.doctor@student.uts.edu.au
