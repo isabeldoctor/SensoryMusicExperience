@@ -31,12 +31,12 @@ The project is created with:
 *(Can be accessed through the "Help" button on Tunepad)
 
 ## Concepts Applied: 
-*Music Theory (scales, beats, velocity)
-*Code Theory (functions, variables, syntax)
-*Modularity in Coding: Structuring code in layers or modules
-*Animation Synchronization: Synchronizing visuals (colourful bouncing ball) with audio
-*Accessibility in Design: Designing with sensory sensitivity in mind
-*Applying data types (e.g., integers for beats) and control structures (loops) to manage the timing
+* Music Theory (scales, beats, velocity)
+* Code Theory (functions, variables, syntax)
+* Modularity in Coding: Structuring code in layers or modules
+* Animation Synchronization: Synchronizing visuals (colourful bouncing ball) with audio
+* Accessibility in Design: Designing with sensory sensitivity in mind
+* Applying data types (e.g., integers for beats) and control structures (loops) to manage the timing
 
 ## Audio Elements: 
 Custom-recorded nature sounds (ocean waves, rain, birds)
