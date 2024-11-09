@@ -7,7 +7,7 @@ Sensory Music Experience is a project designed to create a calming and engaging 
 ## Table of Contents
 * [Introduction](#introduction)
 * [Features](#features)
-* [Setup and Installation](#SetUp)
+* [Setup and Installation](#Setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Sources](#sources)
@@ -21,11 +21,13 @@ The project is created with:
 Python 3.8
 
 ## Platforms and Tools: 
-TunePad (for music composition)
-Processing.org (for animations)
+* TunePad (for music composition)
+* Processing.org (for animations)
+* Google Scholar and UTS Canva for general educational resources on coding and concepts
 
 ## Libraries:
-music21 (for music theory and notation)
+*Tunepad Programming Reference (for music theory and notation)
+*(Can be accessed through the "Help" button on Tunepad)
 
 ## Concepts Applied: 
 Music Theory (scales, beats, velocity)
@@ -57,15 +59,16 @@ Combines auditory and visual stimuli for multisensory engagement.
 
 ## Prerequisites 
 
-Python 3.8 or higher installed on your system.
-Processing software installed from Processing.org.
-TunePad Account Or JSON File Located in github Tunepad Folder
+* Python 3.8 or higher installed on your system.
+* Processing software installed from Processing.org.
+* TunePad Account and download the JSON and music files Located in github Tunepad Folder
+* Processing Files downloaded from the Processing Folder
 
 # Usage
 
 ## Launching Tunepad Project 
 
-### Accessing the Song Using the TunePad Link 
+### Option 1: Accessing the Song Using the TunePad Link 
 1. Open the TunePad Link:
 
 Click on the provided TunePad project link: https://tunepad.com/project/90401
@@ -76,17 +79,17 @@ Once the project loads, click the Play button (►) at the top of the editor.
 Ensure your speakers or headphones are connected and the volume is adjusted to a comfortable level.
 The song will play, incorporating the included code and any embedded sounds.
 
-### Accessing the Song Using the JSON File 
+### Option 2: Accessing the Song Using the JSON File 
 Download the JSON File:
 
-Navigate to the .json file in the GitHub repository in the Tunepad folder.
-Click on the file and then click the Download button to save it to your computer.
-Import the Project into TunePad:
-
-Visit TunePad.
-On the TunePad homepage, click on the Import Project option.
-Select the .json file you downloaded.
-Load Recorded Sounds:
+* Navigate to the .json file and music files in the GitHub repository in the Tunepad folder.
+* Click on the file and then click the Download button to save it to your computer.
+* Import the Project into TunePad:
+* Visit https://tunepad.com
+* On the TunePad homepage, click on the Import Project option.
+* Select the .json file you downloaded.
+  
+#### Load Recorded Sounds:
 
 In TunePad, upload the recorded sounds:
 Click on the Files tab on the left sidebar.
@@ -109,8 +112,6 @@ Play the Animation:
 Click the Run button (►) at the top of the Processing tab.
 The animation window will open, displaying the bouncing balls synchronized with the music.
 
-# usage
-
 # Project Status 
 Current Status: In Development
 
@@ -126,8 +127,12 @@ I will develop further code to create more balls for each layer of the music and
 
 # Sources 
 ### This project was inspired and informed by: 
-This project was inspired by my work as an NDIS worker supporting autistic children. Through my interactions, I've observed that repetitive music and nature sounds like rain and birds can have a calming and engaging effect. These experiences motivated me to create the song, aiming to provide a soothing auditory and visual experience that could benefit children with similar sensory preferences.
+This project was inspired by my work as an NDIS worker supporting autistic children. Through my interactions, I've researched and observed that repetitive music and nature sounds like rain and birds can have a calming and engaging effect according to Wigram and Gold (2006). These experiences motivated me to create the song, aiming to provide a soothing auditory and visual experience that could benefit children with similar sensory preferences.
 
+Wigram, T., & Gold, C. (2006). Music therapy in the assessment and treatment of autistic
+spectrum disorder: Clinical application and research evidence. Child: Care, Health and
+Development, 32(5), 535-542. https://onlinelibrary.wiley.com/doi/10.1111/j.1365-
+2214.2006.00615.x
 
 # Author 
 Isabel Doctor
