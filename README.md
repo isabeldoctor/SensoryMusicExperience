@@ -6,13 +6,22 @@ Sensory Music Experience is a project designed to create a calming and engaging 
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [General Information](#General-Information)
+* [Technologies](#Technologies)
 * [Features](#features)
+* [Screenshots](#Screenshots)
 * [Setup and Installation](#Setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Sources](#sources)
 * [Author](#author) 
 
+# General Information
+### Project Overview
+This project is a code-based sensory experience designed specifically for children with autism to create a calming, supportive environment. By integrating soothing music, ambient nature sounds, and rhythmic animations, the project seeks to provide sensory relief and comfort for children who may experience sensory overload.
+
+### Problem and Purpose
+Children with autism can be particularly sensitive to sensory stimuli, and they may experience anxiety or distress when exposed to overwhelming environments. This project aims to address that issue by offering a carefully crafted, multisensory experience that focuses on predictable patterns and soothing auditory and visual elements. The goal is to reduce sensory stress and provide a tool that families, educators, or therapists can use to support sensory-sensitive children in calming down and staying focused.
 
 # Technologies 
 The project is created with:
@@ -59,6 +68,8 @@ Visual synchronization with the music for a cohesive experience.
 
 Tailored to the sensory preferences of autistic children.
 Combines auditory and visual stimuli for multisensory engagement.
+
+# Screenshots
 
 # Setup 
 
