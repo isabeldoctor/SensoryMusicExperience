@@ -1,4 +1,4 @@
-# SensoryMusicExperience
+ # SensoryMusicExperience
 
  # Introduction
 
@@ -7,7 +7,7 @@ Sensory Music Experience is a project designed to create a calming and engaging 
 ## Table of Contents
 * [Introduction](#introduction)
 * [Features](#features)
-* [Setup and Installation](#Launching-Tunepad-Project)
+* [Setup and Installation](#SetUp)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Sources](#sources)
@@ -53,13 +53,15 @@ Visual synchronization with the music for a cohesive experience.
 Tailored to the sensory preferences of autistic children.
 Combines auditory and visual stimuli for multisensory engagement.
 
-# Launch 
+# Setup 
 
 ## Prerequisites 
 
 Python 3.8 or higher installed on your system.
 Processing software installed from Processing.org.
-TunePad Account
+TunePad Account Or JSON File Located in github Tunepad Folder
+
+# Usage
 
 ## Launching Tunepad Project 
 
