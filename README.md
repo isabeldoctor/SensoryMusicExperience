@@ -92,25 +92,18 @@ Download the JSON File:
 #### Load Recorded Sounds:
 
 In TunePad, upload the recorded sounds:
-Click on the Files tab on the left sidebar.
-Click Upload Files and select the sound files from the sounds folder.
-The sounds will be added to your project and accessible within the code.
-Play the Song:
-
-With the project and sounds loaded, click the Play button (►) to run the code.
+*Click on the Files tab on the left sidebar.
+*Click Upload Files and select the sound files from the sounds folder.
+*The sounds will be added to your project and accessible within the code.
+*With the project and sounds loaded, click the Play button (►) to run the code.
 
 ### Running the Animation (Processing.org) 
-Download the Animation Files:
-
-Download the animation file and any associated files from the animation folder in the repository.
-Open the Animation in Processing:
-
-Launch the Processing IDE on your computer.
-Open the animation.pde file within the program
-Play the Animation:
-
-Click the Run button (►) at the top of the Processing tab.
-The animation window will open, displaying the bouncing balls synchronized with the music.
+*Download the Animation Files:
+* Download the animation file and any associated files from the animation folder in the repository.
+* Open the Animation in Processing:
+* Open the .pde file within the program
+* Play the Animation: Click the Run button (►) at the top of the Processing tab.
+*The animation window will open, displaying the bouncing balls synchronized with the music.
 
 # Project Status 
 Current Status: In Development
