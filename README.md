@@ -64,7 +64,6 @@ Combines auditory and visual stimuli for multisensory engagement.
 
 ## Prerequisites 
 
-* Python 3.8 or higher installed on your system.
 * Processing software installed from Processing.org.
 * TunePad Account and download the JSON and music files Located in github Tunepad Folder
 * Processing Files downloaded from the Processing Folder
