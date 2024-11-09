@@ -18,7 +18,8 @@ Sensory Music Experience is a project designed to create a calming and engaging 
 The project is created with:
 
 ## Programming Languages: 
-Python 3.8
+* Python 3.8 - TunePad
+* Python 2.7 - Processing.org
 
 ## Platforms and Tools: 
 * TunePad (for music composition)
@@ -30,8 +31,12 @@ Python 3.8
 *(Can be accessed through the "Help" button on Tunepad)
 
 ## Concepts Applied: 
-Music Theory (scales, beats, velocity)
-Code Theory (functions, variables, syntax)
+*Music Theory (scales, beats, velocity)
+*Code Theory (functions, variables, syntax)
+*Modularity in Coding: Structuring code in layers or modules
+*Animation Synchronization: Synchronizing visuals (colourful bouncing ball) with audio
+*Accessibility in Design: Designing with sensory sensitivity in mind
+*Applying data types (e.g., integers for beats) and control structures (loops) to manage the timing
 
 ## Audio Elements: 
 Custom-recorded nature sounds (ocean waves, rain, birds)
@@ -69,15 +74,12 @@ Combines auditory and visual stimuli for multisensory engagement.
 ## Launching Tunepad Project 
 
 ### Option 1: Accessing the Song Using the TunePad Link 
-1. Open the TunePad Link:
-
-Click on the provided TunePad project link: https://tunepad.com/project/90401
-The link will open the TunePad editor with the song code loaded.
-Play the Song:
-
-Once the project loads, click the Play button (►) at the top of the editor.
-Ensure your speakers or headphones are connected and the volume is adjusted to a comfortable level.
-The song will play, incorporating the included code and any embedded sounds.
+* Open the TunePad Link:
+* Click on the provided TunePad project link: https://tunepad.com/project/90401
+* The link will open the TunePad editor with the song code loaded.
+* Play the Song: Once the project loads, click the Play button (►) at the top of the editor.
+* Ensure your speakers or headphones are connected and the volume is adjusted to a comfortable level.
+* The song will play, incorporating the included code and any embedded sounds.
 
 ### Option 2: Accessing the Song Using the JSON File 
 Download the JSON File:
