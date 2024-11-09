@@ -70,6 +70,8 @@ Tailored to the sensory preferences of autistic children.
 Combines auditory and visual stimuli for multisensory engagement.
 
 # Screenshots
+![yeyeyy](https://github.com/user-attachments/assets/372f4544-8c82-491c-abfd-5a84bdb09bb9)
+![bals](https://github.com/user-attachments/assets/62ddfa7e-6d2c-4110-80cc-597a0d4097da)
 
 # Setup 
 
